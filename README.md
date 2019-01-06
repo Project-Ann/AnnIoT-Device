@@ -1,2 +1,2 @@
-# AnnIoT-RaspberryPi
-Connect Raspberry Pi devices to AnnIoT
+# AnnIoT-Devices
+Connect devices to AnnIoT
