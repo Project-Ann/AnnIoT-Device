@@ -1,0 +1,30 @@
+{
+  "name": "anniot-device",
+  "version": "1.0.0",
+  "description": "Connect Raspberry Pi devices to AnnIoT ",
+  "main": "index.js",
+  "os" : [ "!win32" ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Project-Ann/AnnIoT-RaspberryPi.git"
+  },
+  "keywords": [
+    "IoT"
+  ],
+  "author": "ProjectAnn: Ahmetcan Aksu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Project-Ann/AnnIoT-RaspberryPi/issues"
+  },
+  "homepage": "https://github.com/Project-Ann/AnnIoT-RaspberryPi#readme",
+  "dependencies": {
+    "restify-clients": "^2.6.4",
+    "socket.io-client": "^2.2.0",
+    "chalk": "2.4.2",
+    "detect-rpi": "^1.3.0",
+    "pigpio": "^1.2.1"
+  }
+}
