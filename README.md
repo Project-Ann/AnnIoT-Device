@@ -1,7 +1,13 @@
 # AnnIoT-Devices
 Connect devices to AnnIoT
 
-## Getting Started
+## How to install ? 
+  
+  ```bash
+    $ sudo npm i -g --usafe-perm anniot-device
+  ```
+
+### Getting Started
   
   **Login your account**
   
