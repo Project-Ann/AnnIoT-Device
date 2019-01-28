@@ -1,32 +1,27 @@
 # AnnIoT-Devices
 Connect devices to AnnIoT
 
-## How to install ? 
-  
-  ```bash
-    $ sudo npm i -g --usafe-perm anniot-device
-  ```
+## Getting Started to use AnnIoT Device Module
 
-### Getting Started
+Are you logined and looking for getting your device online ? 
   
   **Login your account**
   
   ```bash
-  $ anniot --login 
-  
+$ anniot login 
   ```
   
   **Start service**
   
   ```bash
-    $ anniot --serviceStart    
+$ anniot serviceStart    
   ```
 
-Thats it. Module do everything automatically
+Thats it. Module do everything automatically. Are you looking for examples ? Go on visit AnnIoT Wiki 
+> <a href="https://github.com/Project-Ann/AnnIoT-Wiki" target="_blank">Visit wiki</a>
   
   ----
-  
-  
+    
   **Signout**
   
   ```bash
