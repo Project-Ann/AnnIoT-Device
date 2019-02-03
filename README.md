@@ -26,6 +26,6 @@ Thats it. Module do everything automatically. Are you looking for examples ? Go 
   
   ```bash
   
-  $ anniot --signOut 
+  $ anniot signOut 
   
   ```
