@@ -1,4 +1,4 @@
-# AnnIoT-Devices
+# AnnIoT-Devices DEPRECATED
 Connect devices to AnnIoT
 
 ## Getting Started to use AnnIoT Device Module
